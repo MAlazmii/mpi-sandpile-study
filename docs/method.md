@@ -93,3 +93,9 @@ Apple M1. These are small correctness checks. They leave larger-grid,
 native Linux and cluster verification open. The released data supports
 independent figure generation. Rebuilding the historical solver requires
 access to the retained coursework archive.
+
+## Acknowledgement
+
+The historical cluster measurements used the ARCHER2 UK National
+Supercomputing Service.
+[Beckett et al. (2024), ARCHER2 Service Description](https://doi.org/10.5281/zenodo.14507040)
