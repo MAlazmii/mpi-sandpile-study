@@ -40,8 +40,9 @@ timing. Single samples give no estimate of run-to-run variation.
 
 The saved final heights range from zero to three, and the eight images
 have identical file hashes. The image writer clips values above three.
-The hashes therefore corroborate the printed ranges but cannot, on their
-own, distinguish unstable heights from height three.
+The hashes establish that the rendered images match. The reported
+height ranges come from the solver logs, since the images cannot
+distinguish unstable heights from height three.
 
 ### Varying grid and node placement
 
